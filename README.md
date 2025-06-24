@@ -1,4 +1,4 @@
-## PetsLovers - T2 Como rodar o projeto
+## PetsLovers - T3 Como rodar o projeto
 ----------------------------
 1. Instale as dependências:
 npm install
