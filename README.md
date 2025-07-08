@@ -1,4 +1,4 @@
-## PetsLovers - T2 Como rodar o projeto
+## PetsLovers - T3 Como rodar o projeto
 
 > ⚠️ **Atenção sobre a versão do Node.js:**  
 > O projeto foi testado com **Node 22.x no Windows**, mas **recomendo usar exatamente a versão 16.x no Ubuntu/Linux** para evitar erros de compatibilidade.
